@@ -16,6 +16,6 @@
 
 ### Principais tecnologias usadas 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,react,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,nodejs,typescript,python,mysql)](https://skillicons.dev)
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)

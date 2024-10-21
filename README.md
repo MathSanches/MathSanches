@@ -10,7 +10,7 @@
 
 
 - 🔭 Hoje trabalho como estagiário de desenvolvimento
-- 📚 Estudando Java e TypeScript
+- 📚 Estudando Java
 - 💡 Produzindo conteudo sobre programação e tecnologia
 - ⚡ Instagram: @mmariano.dev
 

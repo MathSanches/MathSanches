@@ -18,4 +18,4 @@
 
 ### Principais tecnologias usadas 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,nodejs,python,mysql,sqlite,docker,aws,powerautomate,springboot,angular,n8n)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,nodejs,python,mysql,sqlite,docker,aws,spring,angular)](https://skillicons.dev)

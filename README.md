@@ -6,9 +6,9 @@
 [![Youtube](https://img.shields.io/badge/youtube-0077B5?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@mmarianodev)
 
 ### Sobre mim:
-- 🔭 Hoje trabalho como estagiário de desenvolvimento
-- 📚 Estudando Java
-- 💡 Produzindo conteudo sobre programação e tecnologia
+- 🔭 Hoje trabalho como assistente de engenharia de dados
+- 📚 Estudando Date Engineer, Python e Data Cloud
+- 💡 Produzindo conteúdo sobre programação e tecnologia
 - 📷 Youtube: @mmarianodev
 - ⚡ Instagram: @mmariano.dev
   
